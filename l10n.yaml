@@ -1,0 +1,7 @@
+# arbファイルの場所
+arb-dir: lib/l10n
+# ベース言語
+template-arb-file: app_ja.arb
+# クラス名の変更(デフォルトではAppLocalizations)
+output-class: L10n
+output-localization-file: app_localizations.dart
